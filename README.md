@@ -5,7 +5,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Sonam Sharma  
-### B.Tech CSE (AI & ML) | AI/ML + Full-Stack + DSA (Java/Python)
+### B.Tech CSE (AI & ML) | AI/ML + Full-Stack + DSA (Java)
 
 <p>
   <a href="mailto:sonamsh9000@gmail.com"><img src="https://img.shields.io/badge/Email-sonamsh9000%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -79,7 +79,7 @@
 
 ## 🤝 Let’s Connect
 - 📩 Email: **sonamsh9000@gmail.com**
-- 💼 LinkedIn: **(add your real link here)**
+- 💼 LinkedIn: **www.linkedin.com/in/sonam-sharma-b0b328324**
 - 🌟 Open to: internships, collaborations, hackathons, open source
 
 ---
